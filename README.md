@@ -6,6 +6,13 @@ O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e po
 ## Link para o video (youtube)
 
 
+## Scripts (em R)
+
+```R
+
+source()
+```
+
 _______________________________________________________________________________________________________
 
 ## Leituras sugeridas

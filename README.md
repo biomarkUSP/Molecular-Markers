@@ -264,7 +264,11 @@ Singh & Singh (2015) **Marker-Assisted Plant Breeding: Principles and Practices*
  
 Song & Cregan (2017) **Classical and Molecular Mapping** IN: The Soybean Genome, Springer, Pages 41-56
  
+Vieira,  M.L. C. et al.(2016) **Microsatellite markers: what they mean and why they are so useful**. Genetics and Molecular Biology, 39, 3, 312-328
 
+### Em português
+
+Ramalho M.A.P et al. 2012. **Genética na agropecuária**, 5ª Edição Revisada. Lavras: Editora UFLA. 566 p.
 
 
 Para outras culturas, ver:

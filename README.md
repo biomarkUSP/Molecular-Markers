@@ -261,6 +261,9 @@ Turchetto-Zolet et al. (2017) **Marcadores Moleculares na Era Genômica: Metodol
  
 Glowinski & Flint-Garcia (2017) **Germplasm Resources for Mapping Quantitative Traits in Maize** IN: The Maize Genome, Springer, Pages 143-159
 
+Atul Grover & P. C. Sharma (2016) **Development and use of molecular markers: past and present** Critical Reviews in Biotechnology, 36:2, 290-302, <DOI:10.3109/07388551.2014.959891>
+
+
 Para outras culturas, ver:
 
 **Compendium of Plant Genomes**, Springer

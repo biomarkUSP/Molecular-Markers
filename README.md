@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ## Leituras sugeridas
 
 
-### Genômica e Estatística Genômica
+### Conceitos básicos
 
 Oraguizie. et al. (2007) **Association Mapping in Plants**. Springer, 289p.
 

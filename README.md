@@ -255,13 +255,16 @@ Turchetto-Zolet et al. (2017) **Marcadores Moleculares na Era Genômica: Metodol
 
 ### Aplicações em melhoramento genético de plantas
 
- Singh & Singh (2015) **Marker-Assisted Plant Breeding: Principles and Practices**, Springer,514p.
- 
- Song & Cregan (2017) **Classical and Molecular Mapping** IN: The Soybean Genome, Springer, Pages 41-56
- 
-Glowinski & Flint-Garcia (2017) **Germplasm Resources for Mapping Quantitative Traits in Maize** IN: The Maize Genome, Springer, Pages 143-159
 
 Atul Grover & P. C. Sharma (2016) **Development and use of molecular markers: past and present** Critical Reviews in Biotechnology, 36:2, 290-302, <DOI:10.3109/07388551.2014.959891>
+
+Glowinski & Flint-Garcia (2017) **Germplasm Resources for Mapping Quantitative Traits in Maize** IN: The Maize Genome, Springer, Pages 143-159
+
+Singh & Singh (2015) **Marker-Assisted Plant Breeding: Principles and Practices**, Springer,514p.
+ 
+Song & Cregan (2017) **Classical and Molecular Mapping** IN: The Soybean Genome, Springer, Pages 41-56
+ 
+
 
 
 Para outras culturas, ver:

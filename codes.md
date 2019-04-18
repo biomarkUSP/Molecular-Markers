@@ -73,7 +73,7 @@ SNP = data.frame(geno,row.names = 1)
 ```
 
 
-# arquivo de mapa
+# mapa genético
 
 ```{r}
 
@@ -148,7 +148,9 @@ dim(SNP2)
 ```
 
 
-# Predicao Genomica
+# Predicao Genômica
+
+## Diferenças entre rrBLUP, BayesA e GBLUP
 ```{r}
 
 # aplicando ao maize data set

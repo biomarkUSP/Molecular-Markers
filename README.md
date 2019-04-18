@@ -64,7 +64,7 @@ head(y)
 ```
 
 
-## Data set II: Maize (55 genotypes)
+## Data set II: Maize (55 genótipos, 218 marcas)
 
 ```{r}
 

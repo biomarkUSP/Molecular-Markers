@@ -14,7 +14,7 @@ sapply(pkg,library,character.only = TRUE)
 
 # Data sets
 
-## Primeiro data set: maize
+## Data set I: Maize
 
 ```{r}
 
@@ -53,7 +53,7 @@ head(y)
 ```
 
 
-## Data set II
+## Data set II: Maize (55 genotypes)
 
 ```{r}
 
@@ -73,7 +73,7 @@ SNP = data.frame(geno,row.names = 1)
 ```
 
 
-# mapa genético
+### mapa genético
 
 ```{r}
 
@@ -92,7 +92,9 @@ all(colnames(SNP) == rownames(map))
 ```
 
 
-## usando snpReady
+## Controle de Qualidade
+
+### Uso de snpReady
 
 ```{r}
 args(raw.data)

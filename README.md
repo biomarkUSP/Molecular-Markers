@@ -25,7 +25,7 @@ sapply(pkg,library,character.only = TRUE)
 
 # Data sets
 
-## Data set I: Maize
+## Data set I: Maize (171 genótipos, 14 marcas)
 
 ```{r}
 

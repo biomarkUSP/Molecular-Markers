@@ -249,14 +249,14 @@ ________________________________________________________________________________
 
 ### Conceitos básicos
 
+Atul Grover & P. C. Sharma (2016) **Development and use of molecular markers: past and present** Critical Reviews in Biotechnology, 36:2, 290-302, <DOI:10.3109/07388551.2014.959891>
+
 Oraguizie. et al. (2007) **Association Mapping in Plants**. Springer, 289p.
 
 Turchetto-Zolet et al. (2017) **Marcadores Moleculares na Era Genômica: Metodologias e Aplicações**. E-book disponível em <https://www.sbg.org.br/sites/default/files/e_book_marcadores_moleculares_sbg_2017_final.pdf>
 
 ### Aplicações em melhoramento genético de plantas
 
-
-Atul Grover & P. C. Sharma (2016) **Development and use of molecular markers: past and present** Critical Reviews in Biotechnology, 36:2, 290-302, <DOI:10.3109/07388551.2014.959891>
 
 Glowinski & Flint-Garcia (2017) **Germplasm Resources for Mapping Quantitative Traits in Maize** IN: The Maize Genome, Springer, Pages 143-159
 

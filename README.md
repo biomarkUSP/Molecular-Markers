@@ -9,8 +9,11 @@ O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e po
 ## Scripts (em R)
 
 ```R
+#' os scritps estão disponíveis neste diretório com o nome "code-markers.R"
 
-source()
+#' É possível baixa-lo como:
+
+source("https://raw.githubusercontent.com/biomarkUSP/Molecular-Markers/master/code-markers.R")
 ```
 
 _______________________________________________________________________________________________________

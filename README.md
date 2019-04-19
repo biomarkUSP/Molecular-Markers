@@ -19,6 +19,7 @@ Além disso, os marcadores também podem usados para caracterização da estrutu
 
 ## Link para o video (youtube)
 
+<https://www.youtube.com/watch?v=6NxcMr6hC40>
 
 ## Scripts (em R)
 

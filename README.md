@@ -10,7 +10,7 @@ Os exemplos descritos nessa seção envolvem alguns métodos utilizados para a a
 
 Nesta nossa página irão encontrar esse e outros scripts, além dos datasets usados. Também disponibilizamos nessa seção os materiais que utilizamos para orientar nossa apresentação.
 
-Essas aplicações tem como base modelos de genética biométrica, isto é, a área da genética que trabalha com modelagem matemática para descrever processos vinculados à herança de caracteres, a relação genótipo-fenótipo, a interação de genótipos por ambientes, entre outros.
+Essas aplicações tem como base modelos de genética biométrica, isto é, a área da genética que trabalha com modelagem matemática para descrever processos vinculados a herança de caracteres, a relação genótipo-fenótipo, a interação de genótipos por ambientes, entre outros.
 
 No passado, os geneticistas e biometricistas buscavam compreender fenômenos genéticos com base apenas no fenótipo observado. Com o advento dos marcadores genéticos, e suas propriedades biométricas úteis, tais como alta herdabilidade (próxima a 1), foi possível utiliza-los para melhorar a modelagem da relação genótipo-fenótipo.
 

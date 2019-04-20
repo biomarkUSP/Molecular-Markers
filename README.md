@@ -5,7 +5,7 @@
 
 ### Sumário
 
-Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações do uso de marcadores genéticos, com ênfase em melhoramento de plantas.
+Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações, com ênfase em melhoramento de plantas.
 
 Essas aplicações tem como base modelos de genética biométrica, isto é, a área da genética que trabalha com modelagem matemática para descrever processos vinculados a herança de caracteres, a relação genótipo-fenótipo, a interação de genótipos por ambientes, entre outros.
 

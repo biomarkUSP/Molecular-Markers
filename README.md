@@ -1,20 +1,23 @@
 # Marcadores moleculares (tradicionais e SNPs)
 
 
-O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e por que usá-los?
+## O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e por que usá-los?
 
+### Sumário
 
 Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações do uso de marcadores genéticos, com ênfase em melhoramento de plantas.
-
-Os exemplos descritos nessa seção envolvem alguns métodos utilizados para a análise de matrizes de SNPs. Primeiramente falaremos sobre como analisar de forma simples uma estrutura de população com base em PCA. Em seguida, como fazer o controle de qualidade de dados moleculares. Por fim algumas aplicações simples com predição genômica para fins de orientar a seleção (ou descarte) de genótipos durante o processo de melhoramento genético de plantas.
-
-Nesta nossa página irão encontrar esse e outros scripts, além dos datasets usados. Também disponibilizamos nessa seção os materiais que utilizamos para orientar nossa apresentação.
 
 Essas aplicações tem como base modelos de genética biométrica, isto é, a área da genética que trabalha com modelagem matemática para descrever processos vinculados a herança de caracteres, a relação genótipo-fenótipo, a interação de genótipos por ambientes, entre outros.
 
 No passado, os geneticistas e biometricistas buscavam compreender fenômenos genéticos com base apenas no fenótipo observado. Com o advento dos marcadores genéticos, e suas propriedades biométricas úteis, tais como alta herdabilidade (próxima a 1), foi possível utiliza-los para melhorar a modelagem da relação genótipo-fenótipo.
 
 Além disso, os marcadores também podem usados para caracterização da estrutura de genética de populações, alavancando estudos de diversidade genética (e molecular), filogenia e evolução (em espécies cultivadas e populações naturais).
+
+### Objetivos didáticos
+
+Os exemplos descritos nessa seção envolvem alguns métodos utilizados para a análise de matrizes de SNPs. Primeiramente falaremos sobre como analisar de forma simples uma estrutura de população com base em PCA. Em seguida, como fazer o controle de qualidade de dados moleculares. Por fim algumas aplicações simples com predição genômica para fins de orientar a seleção (ou descarte) de genótipos durante o processo de melhoramento genético de plantas. Assim,  objetivo então dessa seção é fornecer um primeiro contato sobre o uso de biometria para analisar dados de SNPs e promover estudos de genômica quantitativa, tais como predição genomica. Obviamente, não iremos entrar em detalhes mais aprofundados. Estamos abertos para qualquer dúvida e crítica/sugestões são bem vindas!
+
+Na nossa página do github irão encontrar esse e outros scripts, videos e outros datasets que podem ser usados para fins didáticos. Também disponibilizamos nessa seção os materiais que utilizamos para orientar nossa apresentação.
 
 
 ## Link para o video (youtube)

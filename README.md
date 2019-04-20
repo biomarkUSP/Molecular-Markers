@@ -3,7 +3,7 @@
 
 ## O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e por que usá-los?
 
-### Sumário
+### Contextualização
 
 Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações, com ênfase em melhoramento de plantas.
 

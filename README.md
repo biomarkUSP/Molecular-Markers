@@ -4,7 +4,7 @@
 O que são marcadores moleculares? Quais os fundamentos das técnicas? Como e por que usá-los?
 
 
-Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações do uso de marcadores genéticos, com ênfase em melhoramento de plantas.
+Após o desenvolvimento teórico sobre o que são marcadores genéticos, quais os protocolos laboratoriais para sua obtenção e processamento, iremos demonstrar algumas aplicações do uso de marcadores genéticos, com ênfase no uso de SNPs em melhoramento de plantas.
 
 Os exemplos descritos nessa seção envolvem alguns métodos utilizados para a análise de matrizes de SNPs. Primeiramente falaremos sobre como analisar de forma simples uma estrutura de população com base em PCA. Em seguida, como fazer o controle de qualidade de dados moleculares. Por fim algumas aplicações simples com predição genômica para fins de orientar a seleção (ou descarte) de genótipos durante o processo de melhoramento genético de plantas.
 
